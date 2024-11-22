@@ -21,6 +21,10 @@ The **Twirling Mizo News Dataset** is a collection of 6,731 news articles writte
 - **Training Set (80%)**: This set contains 80% of the data for each category and will be used for training machine learning models.
 - **Testing Set (20%)**: This set contains the remaining 20% of the data for each category and can be used for evaluating the performance of the models.
 
+![Number of Articles per Category](data.png)
+
+The bar chart above shows the distribution of articles across different categories in the train and test sets. The light blue bars represent the number of articles in the training set, while the orange bars represent the number of articles in the test set. Each category is labeled on the x-axis, and the corresponding number of articles is displayed at the top of each bar.
+
 ### Example Split
 
 For each category, the dataset is split as follows:
