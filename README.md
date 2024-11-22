@@ -3,6 +3,10 @@
 ## Description
 The **Twirling Mizo News Dataset** is a collection of 6,731 news articles written in the Mizo language. The dataset is categorized into six distinct categories, making it a versatile resource for various Natural Language Processing (NLP) tasks, such as text classification, topic modeling, and language understanding.
 
+The main repository can be accessed on HuggingFace🤗  at the following link:
+
+[andrewbawitlung/twirling_mizo_news](https://huggingface.co/datasets/andrewbawitlung/twirling_mizo_news)
+
 ## Dataset Structure
 - **Total Entries:** 6,731
 - **Columns:**
