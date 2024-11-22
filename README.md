@@ -5,7 +5,7 @@ The **Twirling Mizo News Dataset** is a collection of 6,731 news articles writte
 
 The main repository can be accessed on HuggingFace🤗  at the following link:
 
-[andrewbawitlung/twirling_mizo_news](https://huggingface.co/datasets/andrewbawitlung/twirling_mizo_news)
+[HuggingFace🤗.com/andrewbawitlung/twirling_mizo_news](https://huggingface.co/datasets/andrewbawitlung/twirling_mizo_news)
 
 ## Dataset Structure
 - **Total Entries:** 6,731
